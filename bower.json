@@ -1,0 +1,22 @@
+{
+  "name": "Contact List Application using MEAN stack",
+  "description": "",
+  "main": "",
+  "authors": [
+    "tauqeer <tauqeer.shakir@yahoo.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Tauqeer1/Contact_List_Project_MEAN",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendors",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.0"
+  }
+}
